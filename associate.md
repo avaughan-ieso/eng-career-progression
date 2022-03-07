@@ -1,8 +1,10 @@
-# Essence
+# Associate Engineer
+
+## Essence
 Impact: Spends most of their time developing their own individual skills
 Scope: Owns small tasks, often supervised. May pair on stories
 
-# Technical
+## Technical
 - Competent in primary tech stack
 - Confident with computer science basics (algorithms, data structures, complexity, design patterns)
 - Is productive with the basic tools in their discipline
@@ -11,7 +13,7 @@ Scope: Owns small tasks, often supervised. May pair on stories
 - Adheres to test coverage standards
 - Regularly applies learnings from past experiences
 
-# Approach and Impact
+## Approach and Impact
 - Collaborates with team members
 - Asks questions to clarify estimations (acceptance criteria, KPIs)
 - Is able to deliver small stories
@@ -26,7 +28,7 @@ Scope: Owns small tasks, often supervised. May pair on stories
 - Celebrates with the team
 - Is curious and asks questions
 
-# Communication and Leadership
+## Communication and Leadership
 - Publicly attempts to engage in knowledge sharing, even if unpolished (e.g. demos)
 - Participates in tech discussions
 - Keeps the team up to date on personal progress
