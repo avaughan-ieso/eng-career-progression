@@ -2,13 +2,13 @@
 
 In terms of competency, theory is not enough. Levels are built on relevant working experience as well as theoretical knowledge.
 
+## What is it?
+A career progression framework for all roles within Engineering
+
 ## Dimensions
 - Technical
 - Approach and Impact
 - Communication and Leadership
-
-## What?
-A career progression framework for all roles within Engineering
 
 ## Why?
 - We need a way to explain the difference between levels, and give someone guidance on which skills to develop
